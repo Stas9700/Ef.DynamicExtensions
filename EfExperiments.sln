@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfExperiments.Entities", "EfExperiments.Entities\EfExperiments.Entities.csproj", "{C7C68049-EA12-4881-B25F-926EDCEE1D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfExperiments.App", "EfExperiments.App\EfExperiments.App.csproj", "{0C58D23D-F99C-4795-8EDF-B4F1F873EC02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef.DynamicExtensions", "Ef.DynamicExtensions\Ef.DynamicExtensions.csproj", "{1590DFBB-975A-48FE-9098-2F5C206A49FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C68049-EA12-4881-B25F-926EDCEE1D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C68049-EA12-4881-B25F-926EDCEE1D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C68049-EA12-4881-B25F-926EDCEE1D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C68049-EA12-4881-B25F-926EDCEE1D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C58D23D-F99C-4795-8EDF-B4F1F873EC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C58D23D-F99C-4795-8EDF-B4F1F873EC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C58D23D-F99C-4795-8EDF-B4F1F873EC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C58D23D-F99C-4795-8EDF-B4F1F873EC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1590DFBB-975A-48FE-9098-2F5C206A49FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1590DFBB-975A-48FE-9098-2F5C206A49FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1590DFBB-975A-48FE-9098-2F5C206A49FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1590DFBB-975A-48FE-9098-2F5C206A49FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
